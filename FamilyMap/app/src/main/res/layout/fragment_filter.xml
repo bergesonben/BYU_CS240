@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:layout_margin="10dp">
+
+    <include android:id="@+id/filter_baptism_events"
+             layout="@layout/list_item_filter"/>
+
+    <include android:id="@+id/filter_birth_events"
+             layout="@layout/list_item_filter"/>
+
+    <include android:id="@+id/filter_census_events"
+             layout="@layout/list_item_filter"/>
+
+    <include android:id="@+id/filter_christening_events"
+             layout="@layout/list_item_filter"/>
+
+    <include android:id="@+id/filter_death_events"
+             layout="@layout/list_item_filter"/>
+
+    <include android:id="@+id/filter_marriage_events"
+             layout="@layout/list_item_filter"/>
+
+    <include android:id="@+id/filter_fathers_side"
+             layout="@layout/list_item_filter"/>
+
+    <include android:id="@+id/filter_mothers_side"
+             layout="@layout/list_item_filter"/>
+
+    <include android:id="@+id/filter_male_events"
+             layout="@layout/list_item_filter"/>
+
+    <include android:id="@+id/filter_female_events"
+             layout="@layout/list_item_filter"/>
+
+</LinearLayout>

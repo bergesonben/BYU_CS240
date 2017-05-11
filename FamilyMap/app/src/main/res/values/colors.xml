@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="death_event_color">#ff0000</color>
+    <color name="birth_event_color">#00ff00</color>
+    <color name="christening_event_color">#ff69b4</color>
+    <color name="baptism_event_color">#0000ff</color>
+    <color name="census_event_color">#ffff00</color>
+    <color name="marriage_event_color">#00ffff</color>
+    <color name="male">#0000ff</color>
+    <color name="female">#ff69b4</color>
+    <color name="details">#6f6f6f</color>
+    <color name="marker_icon_color">#4f4f4f</color>
+</resources>

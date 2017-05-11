@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:layout_margin="5dp">
+
+    <include android:id="@+id/settings_life_story_lines"
+             layout="@layout/list_item_settings"/>
+
+    <include android:id="@+id/settings_family_tree_lines"
+             layout="@layout/list_item_settings"/>
+
+    <include android:id="@+id/settings_spouse_lines"
+             layout="@layout/list_item_settings"/>
+
+    <include android:id="@+id/settings_map_type"
+             layout="@layout/list_item_settings"/>
+
+    <include android:id="@+id/settings_resync_data"
+             layout="@layout/list_item_settings"/>
+
+    <include android:id="@+id/settings_logout"
+             layout="@layout/list_item_settings"/>
+
+</LinearLayout>
